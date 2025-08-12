@@ -17,6 +17,10 @@ app/static/workbox-sw.prod*
 # yarn
 yarn-error.log
 
+# ESLint ignore
+app/tailwind.config.js
+app/config/tailwind.config.js
+
 # Jest Coverage
 coverage
 .DS_Store
